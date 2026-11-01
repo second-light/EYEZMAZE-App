@@ -184,7 +184,7 @@ How do you play Flash games on a device that never played Flash? With [Ruffle](h
 ---
 
 ## Credits
-- **Every game is by On Nakayama (EYEZMAZE),** [eyezmaze.com](https://www.eyezmaze.com), played here with his kind permission. If you love these games, please support him with the DONATE button in any game.
+- **Every game is by On Nakayama (EYEZMAZE),** [eyezmaze.com](https://www.eyezmaze.com). If you love these games, please support him with the DONATE button in any game.
 - **[Ruffle](https://ruffle.rs),** the open-source Flash player rebuild, licensed MIT and Apache 2.0.
 - App by **Second Light**.
 
