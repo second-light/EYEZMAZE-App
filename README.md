@@ -58,7 +58,7 @@
 </tr>
 <tr>
 <td><img src="screenshots/web-game-ipad.png" alt="A web game with its sharp button bar"><br><sub>A web game, with its button bar redrawn sharp</sub></td>
-<td><img src="screenshots/glow-ipad.png" alt="The glow around a game"><br><sub>The glow round every game</sub></td>
+<td><img src="screenshots/grow-island-ipad.png" alt="GROW Island on iPad, with the glow round it"><br><sub>GROW Island, with the glow round every game</sub></td>
 </tr>
 </table>
 
