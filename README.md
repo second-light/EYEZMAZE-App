@@ -68,7 +68,7 @@
 
 Remember GROW? You pick the order, drop the pieces in one by one, and watch a little world come alive, level by level, until everything reaches its peak. On Nakayama's EYEZMAZE games charmed players all over the world for twenty years. Then Flash was switched off for good at the end of 2020, and iPhones and iPads had never played Flash in the first place.
 
-EYEZMAZE brings the whole collection to iPhone and iPad, made to fit your screen and your fingers. Every scene, character, rule and secret ending is exactly as the creator made it, with his permission.
+EYEZMAZE brings the whole collection to iPhone and iPad, made to fit your screen and your fingers. Every scene, character, rule and secret ending is exactly as the creator made it.
 
 | | |
 |---|---|
