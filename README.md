@@ -4,7 +4,7 @@
 
 **The world of On Nakayama, grown for iPhone and iPad.**
 
-[![Latest release](https://img.shields.io/badge/latest_release-1.0-2f81f7?style=for-the-badge)](https://github.com/second-light/EYEZMAZE-App/releases/latest)
+[![Latest release](https://img.shields.io/badge/latest_release-2.0-2f81f7?style=for-the-badge)](https://github.com/second-light/EYEZMAZE-App/releases/latest)
 ![Platforms](https://img.shields.io/badge/iPhone_%7C_iPad_%7C_Mac-555?style=for-the-badge&logo=apple)
 ![47 games](https://img.shields.io/badge/47_games-offline-555?style=for-the-badge)
 
@@ -20,6 +20,7 @@
 
 | Version | Date | Highlights |
 |---|---|---|
+| **[2.0](https://github.com/second-light/EYEZMAZE-App/releases/tag/v2.0)** | 1 Nov 2026 | The biggest update yet: a brand-new menu based on the creator's own front page, a glow made from each game's colours, more games filling the iPad sideways, and pin-sharp web-game buttons |
 | **[1.0](https://github.com/second-light/EYEZMAZE-App/releases/tag/v1.0)** | 1 Nov 2026 | First release: all 47 EYEZMAZE games on iPhone and iPad, laid out for touch, with the living hedge menu, a new opening and HD restorations |
 
 ---
@@ -32,7 +33,7 @@ EYEZMAZE brings the whole collection to iPhone and iPad, made to fit your screen
 
 | | |
 |---|---|
-| **Latest release** | [1.0](https://github.com/second-light/EYEZMAZE-App/releases/latest) (1 November 2026) |
+| **Latest release** | [2.0](https://github.com/second-light/EYEZMAZE-App/releases/latest) (1 November 2026) |
 | **Games** | 47: all 21 GROW games and 26 more EYEZMAZE classics |
 | **Runs on** | iPhone, iPad and Mac |
 | **Tested on** | iPhone 17 and iPad Air |
@@ -44,7 +45,8 @@ EYEZMAZE brings the whole collection to iPhone and iPad, made to fit your screen
 
 ## Install
 
-Download the IPA from the [latest release](https://github.com/second-light/EYEZMAZE-App/releases/latest) and sideload it with **[Impactor](https://github.com/claration/impactor)**. The same file works on iPhone and iPad.
+- **iPhone and iPad:** download the `.ipa` file from the [latest release](https://github.com/second-light/EYEZMAZE-App/releases/latest) and sideload it with **[Impactor](https://github.com/claration/impactor)**. The same file works on both.
+- **Mac:** download the Mac `.zip` file from the same release, unzip it and open EYEZMAZE.
 
 ---
 
@@ -57,11 +59,28 @@ Download the IPA from the [latest release](https://github.com/second-light/EYEZM
 - **The newest versions of everything.** Sixteen games were older than the builds on eyezmaze.com, so they've been swapped for the creator's current editions, including remasters with taller stages.
 - **Everything works offline.** The games are packed into the app, so you can play on a plane, on the bus or anywhere else.
 
-### A menu that's alive
-The menu is a tall, clipped hedge with every game's own picture set into it. Scroll down and the GROW people pop up out of holes to say hello. Trains rattle along the bottom, a rocket climbs the full height, and little scenes play out along the top. Tap a game and it opens inside the hedge.
+### A menu based on his own front page
+The menu is laid out the way eyezmaze.com shows On Nakayama's games.
+- **Picture cards.** Every game is a picture card in a white rounded frame on black, with its name beneath.
+- **Sorted into his series.** GROW and his other games are in separate blocks, each headed by his own signpost tile.
+- **His logo across the top.** The logo and the word GAMES stretch across the top, exactly as wide as the cards below.
+- **Sized for every screen:** three cards across on iPhone (five sideways), and five on iPad (seven sideways).
+- **Cards that answer your finger.** A card dips a little under your finger and springs back.
+- **Tap to turn, tap to play.** Tap a card and it turns over like a revolving door to show PLAY, with four yellow arrows beneath in the style of his GROW signpost. Tap again and its black spreads out to fill the screen as the game opens.
+- **Easy to change your mind.** Tap another card, tap an empty space or scroll, and the turned card carries on round the same way back to its picture.
+- **Right where you left it.** Come back from a game and the menu is where you were, with the game shrinking back into its card.
+- **His website, one tap away.** The PC GAMEs and OTHERs signposts at the end open eyezmaze.com and his archive of animations and comics in Safari. The first tap turns the sign to show OPEN, so you never leave the app by accident.
+- **Quick to load.** The whole menu is 1.5 MB, against the old hedge menu's 28 MB.
+
+### A glow round every game
+There are no black bars round a game. The game's own colours, softly blurred and darkened, fill the space around it while you play.
+- **It follows the game,** drifting gently to new colours only when the scene changes.
+- **Rearranged games sit right on the glow.** On iPhone and iPad, the panels and buttons moved to fit the screen sit straight on it, with no box behind them.
+- **No black anywhere** except the back button, which is black with a white ring so it's easy to find.
+- **It costs nothing.** Games run just as smoothly with the glow as without.
 
 ### An opening worth waiting for
-A wall of game pictures greets you, flipping over like revolving doors to show game after game. Tap anywhere and the pictures fall away like cards to reveal the menu standing behind. No flashes of white and no blank screens: the very first thing you see is the opening.
+A wall of game pictures greets you, flipping over like revolving doors to show game after game. Tap anywhere and every card falls away together, the GAMES panel and its logo with them, to reveal the menu standing behind. No flashes of white and no blank screens: the very first thing you see is the opening.
 
 ### A brand-new icon
 The creator's own eye on his grey tile, in front of a wall of his game pictures. His logo was rebuilt from his original drawings as sharp vectors, so it's crisp at every size, from the home screen to the App Library.
@@ -77,11 +96,11 @@ These games were drawn for computer screens in landscape. On a phone held uprigh
 - **GROW Planet:** twelve panels half as large again, in rows of four held upright, or beside the scene held sideways.
 - **GROW RPG:** a closer view of the globe, panels a quarter larger, and the five buttons rebuilt bigger from their own faces and bevelled edges. Tap a panel and its picture flies to the globe from exactly where the panel now sits.
 - **GROW Cannon:** played sideways, with the aiming boxes drawn 1.6 times bigger, about 50 points each.
-- **GROW Tower:** panels 1.35 times larger, bigger scroll arrows and rebuilt buttons. Pierre still flies into the middle panel's place.
+- **GROW Tower:** panels 1.35 times larger, bigger scroll arrows and rebuilt buttons. Pierre still flies into the middle panel's place. On iPad held sideways it has a layout of its own, with narrower columns, so the tower stays nearly as tall as the screen.
 - **GROW Island:** played sideways, with the island at full height and the bar's buttons down the two sides.
-- **GROW ver.1 and ver.2:** the panels lifted out of the sand and the brown band, big under the scene or beside it, on the hedge's dark green. Even GROW ver.1's special one-panel moments switch layout by themselves.
+- **GROW ver.1 and ver.2:** the panels lifted out of the sand and the brown band, big under the scene or beside it, sitting straight on the glow. Even GROW ver.1's special one-panel moments switch layout by themselves.
 
-Turn your phone and the layout turns with it, with both upright and sideways versions where a game suits both. On iPhone the hedge keeps clear of the Dynamic Island, and on iPad every game is shown big and bold. The Mac keeps every game exactly as the creator laid it out.
+Turn your phone and the layout turns with it, with both upright and sideways versions where a game suits both. On iPad every game is shown big and bold, and GROW Cannon, RPG, Planet and Tower fill the screen held sideways too. The Mac keeps every game exactly as the creator laid it out.
 
 ---
 
@@ -91,6 +110,9 @@ Many of these games use small pictures that turn blurry when blown up to a moder
 
 - **GROW Planet in HD.** Its whole picture sheet was enlarged and cleaned up, and the famous red ball redrawn perfectly round and smooth. No more speckles.
 - **GROW ver.2's forest in HD.** Every tree, root and leaf was enlarged, with each edge traced into smooth curves. Every bark line and blade of grass stays where the creator put it, and built-in checks refuse any copy that loses or adds even a small patch.
+- **Pin-sharp buttons in the web games.** In GROW Planet, Comeback, Figure, Recovery, SunBoy, Thanks and DIET, every button on the button bar is crisp: the EYEZMAZE eye, retry, skip, sound, tips and DONATE. They're the same pictures as the buttons in GROW Cube, so each was redrawn from his own drawings, eight times larger, in exactly the game's colours. The big START on the title screen is crisp too, traced from the game's own lettering.
+- **Menu pictures true to his originals.** Every game's picture was enlarged by a more careful method and checked against his own icons, so nothing he didn't draw is added: no stray line across the little man's head in GROW Cube, no thick outlines round softer drawings such as PelPet, and Tontoko Tontie's pixel art keeps its pixels.
+- **A clean eye on the opening screen.** A hidden line in the drawing showed through as a tiny dark mark in the white of the EYEZMAZE eye on iPad. Every line like it is now trimmed short.
 - **Crisp text at any size,** using the same fonts the games were designed with, Japanese lettering included.
 - **Lovingly restored details:**
   - GROW ver.1's sun finally has all its petals. One was left as a bare outline in the original file, so it's filled in with the creator's own drawing from his other files.
@@ -128,7 +150,7 @@ How do you play Flash games on a device that never played Flash? With [Ruffle](h
 
 - **The GROW Cube freeze is fixed.** Cube froze on real iPhones and iPads at its LEVEL UP moment. The game piles 145 instructions inside each other, and an iPhone only has room for about 93. This version of the player handles that deep pile in extra passes within the same frame, so the game looks exactly the same and never freezes.
 - **The same picture as the Mac.** iPhone and iPad now draw games the Mac's way, so no Flash effects go missing.
-- **Smooth as butter.** Measured at about 60 frames a second on iPhone 17 and iPad Air, with as little as 3 thousandths of a second of work per frame. Every game still keeps the pace On Nakayama gave it.
+- **Smooth as butter.** Measured at a steady 60 frames a second on iPhone 17 and iPad Air, through the opening, every turn of a card, scrolling, opening a game and coming back, with as little as 3 thousandths of a second of work per frame in the games. Every game still keeps the pace On Nakayama gave it.
 - **Tested to the end.** Every one of the 47 games was played automatically on a real iPhone and iPad and checked for freezes, errors and stalls. The laid-out games were played right through to their endings: GROW Planet to both endings, GROW RPG and Tower to "CONGRATULATIONS", and GROW Cannon to its last shot.
 - **Safe and private.** Games stay off the internet, links to the old website are blocked, and only the creator's own pages ever open, in Safari.
 
@@ -138,6 +160,18 @@ How do you play Flash games on a device that never played Flash? With [Ruffle](h
 
 <details>
 <summary><b>Show the development history</b></summary>
+
+**1 November 2026: Version 2.0**
+- A new menu based on his own front page, with picture cards that turn over to PLAY.
+- His PC GAMEs and OTHERs signposts open his website, and a line names him as the creator.
+- A glow made from the game's own colours round every game, instead of the hedge.
+- GROW Cannon, RPG, Planet and Tower fill the iPad held sideways.
+- Sharp button bars and START in the seven web games.
+- Menu pictures true to his originals.
+- Fixed: the dark mark in the eye on the opening screen.
+
+**1 November 2026: Version 1.0**
+- First release, with everything below.
 
 **19 October 2026**
 - The app is now called EYEZMAZE, with a new icon and the creator's own logo.
@@ -177,9 +211,9 @@ How do you play Flash games on a device that never played Flash? With [Ruffle](h
 ---
 
 ## Coming soon
-- **A whole new menu:** a little round planet that turns under your finger, with each game set into its surface as its own patch of world, under a sky that drifts from day to dusk. Currently being built.
 - **HD for every game,** as sharp as GROW Planet and GROW ver.2's forest.
 - **More games laid out** for iPhone and iPad.
+- **The planet menu** is set aside for now, not scrapped. The hedge menu is safely kept too, and can come back whenever it's wanted.
 
 ---
 
