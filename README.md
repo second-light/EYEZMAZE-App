@@ -12,6 +12,10 @@
 
 **47 games · Free of adverts · No internet needed · iPhone, iPad and Mac**
 
+<br>
+
+<img src="screenshots/opening-ipad.png" alt="The EYEZMAZE opening screen on iPad" width="100%">
+
 </div>
 
 ---
@@ -22,6 +26,41 @@
 |---|---|---|
 | **[2.0](https://github.com/second-light/EYEZMAZE-App/releases/tag/v2.0)** | 1 Nov 2026 | The biggest update yet: a brand-new menu based on the creator's own front page, a glow made from each game's colours, more games filling the iPad sideways, and pin-sharp web-game buttons |
 | **[1.0](https://github.com/second-light/EYEZMAZE-App/releases/tag/v1.0)** | 1 Nov 2026 | First release: all 47 EYEZMAZE games on iPhone and iPad, laid out for touch, with the living hedge menu, a new opening and HD restorations |
+
+---
+
+## Screenshots
+
+### iPhone
+
+<table>
+<tr>
+<td width="25%"><img src="screenshots/opening-iphone.png" alt="The opening"><br><sub>The opening</sub></td>
+<td width="25%"><img src="screenshots/menu-iphone.png" alt="The menu"><br><sub>The menu</sub></td>
+<td width="25%"><img src="screenshots/grow-cube-iphone.png" alt="GROW Cube"><br><sub>GROW Cube, laid out upright</sub></td>
+<td width="25%"><img src="screenshots/grow-rpg-iphone.png" alt="GROW RPG"><br><sub>GROW RPG, laid out upright</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%"><img src="screenshots/grow-rpg-iphone-sideways.png" alt="GROW RPG sideways"><br><sub>GROW RPG, sideways</sub></td>
+<td width="50%"><img src="screenshots/grow-cube-iphone-sideways.png" alt="GROW Cube sideways"><br><sub>GROW Cube, sideways</sub></td>
+</tr>
+</table>
+
+### iPad
+
+<table>
+<tr>
+<td width="50%"><img src="screenshots/menu-play-ipad.png" alt="A card turned to PLAY"><br><sub>Tap a card and it turns to PLAY</sub></td>
+<td width="50%"><img src="screenshots/grow-tower-ipad.png" alt="GROW Tower on iPad"><br><sub>GROW Tower's iPad layout</sub></td>
+</tr>
+<tr>
+<td><img src="screenshots/web-game-ipad.png" alt="A web game with its sharp button bar"><br><sub>A web game, with its button bar redrawn sharp</sub></td>
+<td><img src="screenshots/glow-ipad.png" alt="The glow around a game"><br><sub>The glow round every game</sub></td>
+</tr>
+</table>
 
 ---
 
